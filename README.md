@@ -33,19 +33,19 @@ Row Level Security (RLS)
 
 ### 📈 Currently Building
 
-• AI Driven Bug Bounty Orchestrator
+* AI Driven Bug Bounty Orchestrator
 Building an n8n and Kali based workflow system for ethical security testing and automation
-• Acupressure Application
+* Acupressure Application
 Building a full stack application for symptoms, pressure point guidance, and interactive user experiences
-• Expanding cloud and deployment skills through containerized applications and CI/CD workflows
+* Expanding cloud and deployment skills through containerized applications and CI/CD workflows
 
 ---
 
 ### 📌 Featured Projects
 
-• AI Driven Bug Bounty Orchestrator
+* AI Driven Bug Bounty Orchestrator
 Structured automation for recon, scanning, exploitation preparation, and reporting
-• Acupressure Application
+* Acupressure Application
 Full stack web application focused on symptom tracking and pressure point recommendations
 
 ---
