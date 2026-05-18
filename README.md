@@ -1,26 +1,52 @@
 # Hi, I'm Brian Walters 👋
 
-I’m a **Software Developer** focused on **backend development, security, and cloud systems**.
-I build secure, scalable APIs and full-stack applications with **NestJS**, **PostgreSQL (Supabase)**, and **TypeScript**, applying **OWASP guidelines**, PKCE flows, and RLS policies.
+Software Developer focused on backend engineering, secure application development, and cloud systems. I build secure APIs and full stack applications using TypeScript, NestJS, PostgreSQL, and modern security practices.
+
 
 ---
 
-### 🛠️ Technologies I Work With
+### 🛠️ Tech Stack
 
-* **Languages:** TypeScript, JavaScript, Python, Java, SQL, HTML/CSS
-* **Backend / Frameworks:** NestJS, Node.js, Express, React
-* **Databases:** PostgreSQL, Supabase (RLS, storage/S3)
-* **Tools & Infra:** Docker, GitHub Actions, PNPM, WSL, Linux/Windows, Swagger/OpenAPI, Postman, Tailwind CSS, Ionic
-* **Security:** PKCE flows, Authentication/Authorization, OWASP practices, API security testing
+Languages:
+TypeScript, JavaScript, Python, Java, SQL
+
+Backend:
+NestJS, Node.js, Express
+
+Frontend:
+React, Ionic, Tailwind CSS
+
+Databases:
+PostgreSQL, Supabase
+
+Tools & Infrastructure:
+Docker, GitHub Actions, PNPM, Linux, WSL, Swagger/OpenAPI, Postman
+
+Security:
+Authentication and Authorization
+PKCE flows
+OWASP practices
+API security testing
+Row Level Security (RLS)
 
 ---
 
-### 📈 What I'm Working On
+### 📈 Currently Building
 
-* Secure API and auth flows (PKCE, RLS) in **NestJS + Supabase**
-* **AI-Driven Bug Bounty Orchestrator** (n8n + Kali) — structured security automation for recon, scanning, exploit prep, and reporting
-* **Pressure Point Info App** — React + NestJS full-stack web app with interactive UI and secure auth
-* Expanding cloud architecture skills and containerized deployments
+• AI Driven Bug Bounty Orchestrator
+Building an n8n and Kali based workflow system for ethical security testing and automation
+• Acupressure Application
+Building a full stack application for symptoms, pressure point guidance, and interactive user experiences
+• Expanding cloud and deployment skills through containerized applications and CI/CD workflows
+
+---
+
+### 📌 Featured Projects
+
+• AI Driven Bug Bounty Orchestrator
+Structured automation for recon, scanning, exploitation preparation, and reporting
+• Acupressure Application
+Full stack web application focused on symptom tracking and pressure point recommendations
 
 ---
 
@@ -30,10 +56,4 @@ I build secure, scalable APIs and full-stack applications with **NestJS**, **Pos
 * 💼 LinkedIn: [Brian Walters](https://www.linkedin.com/in/brian-walters)
 * 🖥️ GitHub: [BrianW77](https://github.com/BrianW77)
 
----
 
-### 📌 Pinned Projects
-
-* **AI-Driven Bug Bounty Orchestrator** – n8n + Kali workflows for ethical hacking automation
-* **Pressure Point Info Web App** – React + NestJS + Supabase full-stack project
-* More academic, professional, and security-focused projects coming soon
